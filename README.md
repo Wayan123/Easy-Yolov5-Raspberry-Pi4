@@ -39,4 +39,4 @@ Tutorial menjalankan Yolov5 di Raspberry Pi 4 dengan mudah.
 ![image](https://github.com/Wayan123/Yolov5-Raspberry-Pi4/assets/17795544/e12fba57-9333-433f-98d3-303227190a20)
 3. Hasilnya sebagai berikut jika tidak ada error:
 ![Screenshot from 2023-05-16 21-50-03](https://github.com/Wayan123/Yolov5-Raspberry-Pi4/assets/17795544/715d858b-b740-4df8-8002-e69b1c6cc2dd)
-Selamat yolo anda berhasil terinstall dan bisa berjalan dengan baik.
+3. Selamat yolo anda berhasil terinstall dan bisa berjalan dengan baik.
