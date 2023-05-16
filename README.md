@@ -13,6 +13,7 @@ Tutorial lainnya silakan kunjungi youtube berikut: https://www.youtube.com/@code
 - Langkah-langkah menginstall Raspberry Pi OS:
 1. Download Raspberry Pi Imager disini https://www.raspberrypi.com/software/. Software ini akan digunakan untuk meng-install OS Pi pada SD Card/Flashdisk/USB SSD
 2. Pytorch membutuhkan arsitektur Raspbian 64 bit, jadi pilih OS Raspbian 64 Bit, jangan menggunakan versi 32 bit karena akan gagal selama install pytorch.
+3. Versi python yang digunakan adalah 3.9..
 
 - Langkah-langkah install Pytorch pada OS Raspbian 64 Bit:
 1. sudo apt update
