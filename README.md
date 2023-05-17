@@ -1,6 +1,6 @@
 ![Screenshot from 2023-05-16 21-50-03](https://github.com/Wayan123/Yolov5-Raspberry-Pi4/assets/17795544/3b764890-7727-451a-8f56-f6a5fb1647ba)
 
-# Yolov5-Raspberry-Pi4
+# Easy Yolov5-Raspberry-Pi4
 Tutorial menjalankan Yolov5 di Raspberry Pi 4 dengan mudah.
 
 Tutorial lainnya silakan kunjungi youtube berikut: https://www.youtube.com/@codeandrobotid2466
