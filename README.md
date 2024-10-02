@@ -19,10 +19,12 @@ Tutorial lainnya silakan kunjungi youtube berikut: https://www.youtube.com/@code
 1. sudo apt update
 2. sudo apt upgrade -y
 3. sudo apt-get -y install python3-pip libjpeg-dev libopenblas-dev libopenmpi-dev libomp-dev
-4. pip install torch torchvision torchaudio
-5. pip install opencv-python
-6. pip install numpy --upgrade
-7. Jika tidak ada error proses install selesai.
+4. python -m venv yolov5
+5. source yolov11/bin/activate
+6. pip install torch torchvision torchaudio
+7. pip install opencv-python
+8. pip install numpy --upgrade
+9. Jika tidak ada error proses install selesai.
 
 - Testing pytorch apakah sudah terinstall dengan benar atau belum:
 1. Ketik berikut pada terminal $ python -c "import torch; print(torch.__version__)", atau
